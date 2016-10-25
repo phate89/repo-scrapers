@@ -1,3 +1,6 @@
+[B]3.9.3[/B]
+- added: uniqueids and ratings with their name - needs Krypton or newer
+
 [B]3.9.2[/B]
 - added: some new languages
 
